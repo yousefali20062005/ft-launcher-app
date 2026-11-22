@@ -9,11 +9,11 @@
 
 <br/>
 
-[![تحميل أحدث إصدار للويندوز](https://img.shields.io/badge/⬇%20تحميل%20اللانشر%20للويندوز%20(Setup%20.exe)-v2.5.3-6366F1?style=for-the-badge&labelColor=0D0E14)](https://github.com/yousefali20062005/ft-launcher-app/releases/latest)
+[![Download FT Launcher for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Launcher%20(Setup%20.exe)-v2.5.3-6366F1?style=for-the-badge&labelColor=0D0E14)](https://github.com/yousefali20062005/ft-launcher-app/releases/latest)
 
-[![موقع العائلة](https://img.shields.io/badge/🌐%20موقع%20العائلة-Family%20Team%20Hub-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
-[![تطبيق الأفلام](https://img.shields.io/badge/🎬%20تطبيق%20الأفلام-Family%20Team%20Movies-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
-[![تطبيق الأغاني](https://img.shields.io/badge/🎵%20تطبيق%20الأغاني-FT%20Music-1DB954?style=for-the-badge&labelColor=0D0D10)](https://github.com/yousefali20062005/ft-music-app/releases/latest)
+[![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
+[![Family Team Movies](https://img.shields.io/badge/🎬%20Movies%20%26%20Series-Desktop%20App-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
+[![FT Music](https://img.shields.io/badge/🎵%20FT%20Music-Desktop%20App-1DB954?style=for-the-badge&labelColor=0D0D10)](https://github.com/yousefali20062005/ft-music-app/releases/latest)
 
 </div>
 
