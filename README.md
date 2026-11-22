@@ -9,7 +9,7 @@
 
 <br/>
 
-[![تحميل أحدث إصدار للويندوز](https://img.shields.io/badge/⬇%20تحميل%20اللانشر%20للويندوز%20(Setup%20.exe)-v2.5.2-6366F1?style=for-the-badge&labelColor=0D0E14)](https://github.com/yousefali20062005/ft-launcher-app/releases/latest)
+[![تحميل أحدث إصدار للويندوز](https://img.shields.io/badge/⬇%20تحميل%20اللانشر%20للويندوز%20(Setup%20.exe)-v2.5.3-6366F1?style=for-the-badge&labelColor=0D0E14)](https://github.com/yousefali20062005/ft-launcher-app/releases/latest)
 
 [![موقع العائلة](https://img.shields.io/badge/🌐%20موقع%20العائلة-Family%20Team%20Hub-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![تطبيق الأفلام](https://img.shields.io/badge/🎬%20تطبيق%20الأفلام-Family%20Team%20Movies-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
