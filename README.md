@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Download FT Launcher for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Launcher%20(Setup%20.exe)-v2.5.3-6366F1?style=for-the-badge&labelColor=0D0E14)](https://github.com/yousefali20062005/ft-launcher-app/releases/latest)
+[![Download FT Launcher for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Launcher%20(Setup%20.exe)-v2.5.4-6366F1?style=for-the-badge&labelColor=0D0E14)](https://github.com/yousefali20062005/ft-launcher-app/releases/latest/download/FT-Launcher-Setup.exe)
 
 [![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![Family Team Movies](https://img.shields.io/badge/🎬%20Movies%20%26%20Series-Desktop%20App-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
@@ -35,7 +35,7 @@
 
 ## 📥 طريقة التحميل والتثبيت (ويندوز 10 / 11 — 64-bit)
 
-1. اضغط على زر **[تحميل اللانشر للويندوز](https://github.com/yousefali20062005/ft-launcher-app/releases/latest)** وحمّل ملف **`FT-Launcher-Setup.exe`**.
+1. اضغط على **[تحميل اللانشر للويندوز (`FT-Launcher-Setup.exe`)](https://github.com/yousefali20062005/ft-launcher-app/releases/latest/download/FT-Launcher-Setup.exe)** للتنزيل المباشر دائماً.
 2. شغّل ملف التثبيت:
    > 💡 إذا ظهرت نافذة **Windows SmartScreen** الزرقاء في أول تشغيل فقط، اضغط **`More info` (معلومات إضافية)** ثم **`Run anyway` (التشغيل على أي حال)**.
 3. استمتع باللعب — وستصلك كل التحديثات المستقبلية تلقائياً داخل اللانشر!
